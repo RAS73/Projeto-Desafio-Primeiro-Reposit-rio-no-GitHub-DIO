@@ -1,0 +1,3 @@
+No GitHub, você verá o mesmo processo local de adicionar e confirmar arquivos em um repositório Git que foi inicializado em seu computador.
+
+No entanto, você pode utilizar o GitHub para enviar suas modificações para o serviço de hospedagem do GitHub. Isso possibilita que outras pessoas trabalhem de maneira semelhante em um mesmo projeto, obtenham suas alterações em seus computadores e enviem suas próprias alterações para o GitHub.
